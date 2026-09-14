@@ -2,7 +2,7 @@
 
 ## 1 - Abstract
 
-***Veritas Omnibus***
+***Truth for All***
 
 Atlas Vivacada is Vivacada's main reference resource in what is constitutes an open and
 decentralized academic journal.
